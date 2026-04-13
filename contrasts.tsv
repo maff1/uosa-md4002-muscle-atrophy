@@ -1,0 +1,4 @@
+phenotype	dds_rds	contrast
+Atrophy	./results/dds_by_phenotype/Atrophy/dds_Atrophy.rds	Condition,atrophy_post,atrophy_pre
+Exercise	./results/dds_by_phenotype/Exercise/dds_Exercise.rds	Condition,exercise_post,exercise_pre
+Ageing	./results/dds_by_phenotype/Ageing/dds_Ageing.rds	Condition,ageing_old,ageing_young

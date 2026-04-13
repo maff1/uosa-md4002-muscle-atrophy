@@ -1,0 +1,4 @@
+phenotype	file
+Atrophy	./results/deseq_results/Atrophy/results_Condition_atrophy_post_vs_atrophy_pre.tsv
+Exercise	./results/deseq_results/Exercise/results_Condition_exercise_post_vs_exercise_pre.tsv
+Ageing	./results/deseq_results/Ageing/results_Condition_ageing_old_vs_ageing_young.tsv
