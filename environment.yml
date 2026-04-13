@@ -1,0 +1,37 @@
+name: md4002_erik
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+dependencies:
+  - bioconductor-biobase
+  - r-ggplot2
+  - libxml2
+  - r-essentials
+  - bioconductor-org.hs.eg.db
+  - r-dt
+  - bioconductor-geoquery
+  - bioconductor-annotationdbi
+  - bioconductor-biomart
+  - r-maptools
+  - bioconductor-annotate
+  - r-dplyr
+  - openssl
+  - r-knitr
+  - r-rmarkdown
+  - r-kableextra
+  - r-ggrepel
+  - libcurl
+  - r-base=4.3
+  - r-umap
+  - r-data.table
+  - bioconductor-limma
+  - bioconductor-deseq2
+  - r-openxlsx2
+  - r-cowplot
+  - r-optparse
+  - r-pheatmap
+  - r-patchwork
+prefix: /software/conda/maff1/conda/envs/md4002_erik
