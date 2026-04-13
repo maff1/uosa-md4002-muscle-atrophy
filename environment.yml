@@ -34,4 +34,4 @@ dependencies:
   - r-optparse
   - r-pheatmap
   - r-patchwork
-prefix: /software/conda/maff1/conda/envs/md4002_erik
+prefix: /software/conda/ew255/conda/envs/md4002_erik
